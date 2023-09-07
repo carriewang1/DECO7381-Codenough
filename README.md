@@ -108,7 +108,7 @@ The below images show the camera shaking and blur effect and code.
 
 ## <ins>Ethics, security and data privacy</ins>
 
-a. Ethics:
+**a. Ethics:**
 
 ```
 _Statement_:
@@ -129,7 +129,7 @@ The responsible gaming disclaimer will be displayed prominently on the game's lo
 
 ```
 
-<b>Educational Pop-ups:</b>
+Educational Pop-ups:
 
 - Example:
 
@@ -143,4 +143,57 @@ User Consent:
 
 During the game's initial setup, users will be presented with a consent dialogue box. It will explain that the game collects gameplay data for analysis and improvement. Users must check a box to provide their consent before proceeding with the game.
 
+```
+
+**b.Security (Okta):**
+
+```
+Statement: We prioritize the security of user data and the game's infrastructure.
+
+Evidence:
+
+- User data is securely stored and transmitted using industry-standard encryption protocols.
+
+- Regular security assessments and penetration testing are conducted to identify and address vulnerabilities.
+
+- Access controls and authentication mechanisms are in place to prevent unauthorized access to user data and game resources.
+```
+
+```
+Authentication and Encryption (Attachment below):
+
+Example:
+
+User authentication will involve a two-factor authentication (2FA) system requiring a password and a one-time code sent to the user's email. User credentials and sensitive data will be encrypted using AES-256 encryption for both transmission and storage.
+
+```
+
+**c. Privacy**
+
+```
+Statement: User data privacy is a fundamental concern, and we adhere to strict data handling
+policies.
+
+Evidence:
+
+- Users are explicitly asked for consent to collect gameplay data, and the purposes of data collection are clearly communicated.
+- Anonymization techniques are employed to protect user privacy, with minimal personally identifiable information collected.
+- A comprehensive privacy policy is accessible within the game, explaining how data is used, retained, and deleted upon request.
+
+```
+
+```
+User Data Access and Deletion:
+
+-Example:
+
+Users can access their data by navigating to the "Settings" menu and selecting "Data Access." Requests for data deletion can be submitted through a "Delete My Data" button in the same menu. The team will respond to access requests within 48 hours and data deletion requests within 7 days.
+```
+
+```
+Data Collection Transparency:
+
+- Example:
+
+The privacy policy accessible within the game will detail data collection practices. It will explain that data includes user profiles, gameplay statistics, and device information. The policy will clarify that data is used solely for game improvement and analytics.
 ```
