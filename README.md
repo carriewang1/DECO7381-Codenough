@@ -29,6 +29,36 @@ In week 6, we assigned each member a task that goes through the whole project:
 
 ## In week 7 we have done so far:
 
-### The primary <ins>UI menu </ins> has been completed below:
+## The primary <ins>UI menu </ins> has been completed below:
 
 <img src="/images/UI.png" alt="The primary UI menu" title="UI basic">
+
+## <ins>First-person perspective:</ins>
+
+```
+Simulate the G29 halfway through. The mirror effect on the car that right-hand driving got fixed
+already. The future plan will be focused on car control and other relevant functions.
+
+```
+
+- Examined how to make the vehicle's kit change to right-hand drive.
+  The Unity store sets are all left rudder, and there is no technique to recreate them. By taking the approach of mirroring the interior of the vehicle, the model is made to change to the right rudder.
+
+- Bound the input actions to the animation of the steering wheel.
+  Linking with the binding of G29 requires associating the input commands to the steering wheel animation as well as other operations.
+
+### Future plan week 8:
+
+If a new model was used, it would be beneficial to take the same approach to accomplish the same goal.
+
+The script file needs to be modified to ensure proper functionality.
+
+<img src="/image%20(1).png" alt="Screenshot of the trello Board" title="Trello Board">
+<img src="/image.png" alt="Screenshot of the trello Board" title="Trello Board">
+
+## <ins>Obstacles with collision have nearly been done </ins>
+
+- We have completed the collision effect between objects
+- Set the trigger when the object collision effect has feedback.
+
+### Future Plan Week 8:
