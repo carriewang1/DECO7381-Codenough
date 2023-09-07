@@ -71,8 +71,8 @@ The image shows the object collision effect that uses 3D objects to simulate.
 
 ## <ins>Blur camera Setting<ins>
 
-```
-The blur camera is almost done. There may be some changes, such as the dizziness being relatively fast.
+```The blur camera is almost done. There may be some changes, such as the dizziness being relatively fast.
+
 ```
 
 - We have set the effect of the main camera auto shake.
