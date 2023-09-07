@@ -67,3 +67,19 @@ The script file needs to be modified to ensure proper functionality.
 - Cars can realise collision effects. There is a limit to the number of collisions.
 
 <img src="/Trigger.jpg" alt="screensht inner car" title="screenshot inner">
+The image shows the object collision effect that uses 3D objects to simulate.
+
+## <ins>Blur camera Setting<ins>
+
+```
+The blur camera is almost done. There may be some changes, such as the dizziness being relatively fast.
+```
+
+- We have set the effect of the main camera auto shake.
+- Camera blur during the motion.
+
+### Future plan week 8:
+
+- Update the shader, which can allow the input to change.
+
+The below images show the camera shaking and blur effect and code.
