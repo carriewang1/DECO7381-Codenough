@@ -29,6 +29,6 @@ In week 6, we assigned each member a task that goes through the whole project:
 
 ## In week 7 we have done so far:
 
-### The primary <u>UI menu </u> has been completed below:
+### The primary <ins>UI menu </ins> has been completed below:
 
 <img src="/images/UI.png" alt="The primary UI menu" title="UI basic">
