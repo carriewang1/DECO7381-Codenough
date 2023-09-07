@@ -71,8 +71,8 @@ The image shows the object collision effect that uses 3D objects to simulate.
 
 ## <ins>Blur camera Setting<ins>
 
-```The blur camera is almost done. There may be some changes, such as the dizziness being relatively fast.
-
+```
+The blur camera is almost done. There may be some changes, such as the dizziness being relatively fast.
 ```
 
 - We have set the effect of the main camera auto shake.
@@ -83,3 +83,30 @@ The image shows the object collision effect that uses 3D objects to simulate.
 - Update the shader, which can allow the input to change.
 
 The below images show the camera shaking and blur effect and code.
+
+<img src="/%E6%88%AA%E5%B1%8F2023-09-07_17.35.54.png" alt="screen code" title="screenshot camera effects code">
+<img src="/%E6%88%AA%E5%B1%8F2023-09-07_17.36.07.png" alt="screensht code" title="screenshot inner">
+<img src="/%E6%88%AA%E5%B1%8F2023-09-07_17.44.18.png" alt="screensht camera effect" title="screenshot effect">
+
+## <ins>G29 and Unity Connection<ins>
+
+- G29 Connection - Successfully connect G29; all of the input can be shown with GUI in Unity.
+- G29 Button - All of the buttons can have an output if the user presses any of them, and the information of each one can be located.
+- Driving Effect - All effects can be set up before the game. Eg, Damper force.
+- G29 Control a Car - Successfully using G29 to control a car.
+
+### Future plan week 8:
+
+- Add all functions to the car. Such as brake(), DecelerateCar ().
+- User test - Test driving experience, like whether the user thinks it is easy to control.
+- Add audio to the car.
+- Combining all parts of us finished tasktogether.
+- Figure out how to implement it in the First-person view.
+
+<img src="/images/7381_week8_snapshot_code.png" alt="screen code" title="screenshot G29 CONNECT  code">
+<img src="/images/7381_week8_snapshot_UnityView.png" alt="screen result" title="screenshot G29 result connection">
+
+## <ins>Ethics, security and data privacy</ins>
+
+a. Ethics:
+**_Statement_**: Our team is committed to creating a responsible gaming experience that discourages drunk driving.
