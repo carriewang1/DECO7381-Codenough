@@ -26,3 +26,9 @@ In week 6, we assigned each member a task that goes through the whole project:
 1. Obstacle setting and subsequent output (Main responsibility: make sure an object that hits an obstacle has an animation output and exits the game.) - Zhiyuan
 1. User interface (Main responsibilities: UI interface, user interaction design. For example, users click different buttons to go to different interfaces, users click buttons to start any game and subsequent functions.) - Carrie (Ruobing)
 1. Animation (Main responsibilities: Responsible for creating animations and scene designs that resonate with users.) - TBA
+
+## In week 7 we have done so far:
+
+### The primary <u>UI menu <u>has been completed below:
+
+<img src="/images/UI.png" alt="The primary UI menu" title="UI basic">
