@@ -53,8 +53,8 @@ If a new model was used, it would be beneficial to take the same approach to acc
 
 The script file needs to be modified to ensure proper functionality.
 
-<img src="/image%20(1).png" alt="Screenshot of the trello Board" title="Trello Board">
-<img src="/image.png" alt="Screenshot of the trello Board" title="Trello Board">
+<img src="/image%20(1).png" alt="screensht inner car" title="screenshot inner">
+<img src="/image.png" alt="first-perosn view" title="scrrenshot first perosn view">
 
 ## <ins>Obstacles with collision have nearly been done </ins>
 
@@ -62,3 +62,8 @@ The script file needs to be modified to ensure proper functionality.
 - Set the trigger when the object collision effect has feedback.
 
 ### Future Plan Week 8:
+
+- Create and play a video through a trigger
+- Cars can realise collision effects. There is a limit to the number of collisions.
+
+<img src="/Trigger.jpg" alt="screensht inner car" title="screenshot inner">
