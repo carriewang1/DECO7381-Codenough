@@ -109,4 +109,31 @@ The below images show the camera shaking and blur effect and code.
 ## <ins>Ethics, security and data privacy</ins>
 
 a. Ethics:
+
+```
 **_Statement_**: Our team is committed to creating a responsible gaming experience that discourages drunk driving.
+```
+
+**Responsible Gaming Disclaimer:**
+
+- In-game disclaimers and pop-ups explicitly state that the game is a simulation and does not endorse or encourage real drunk driving.
+
+Example:
+
+The responsible gaming disclaimer will be displayed prominently on the game's loading screen and in the main menu. It will state, "Play responsibly. Don't let the game influence real-world behavior. If you drink, don't drive."
+
+```
+**Educational Pop-ups:**
+
+- Example:
+
+Educational pop-ups will appear after each completed race within the game. These pop-ups will include statistics such as "Over 10,000 lives lost annually due to drunk driving" and a clear message stating, "This game is intended to raise awareness about the dangers of drunk driving. Please don't drink and drive in real life."
+```
+
+```
+**User Consent:**
+- Example:
+
+During the game's initial setup, users will be presented with a consent dialogue box. It will explain that the game collects gameplay data for analysis and improvement. Users must check a box to provide their consent before proceeding with the game.
+
+```
