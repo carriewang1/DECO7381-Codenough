@@ -129,7 +129,7 @@ The responsible gaming disclaimer will be displayed prominently on the game's lo
 
 ```
 
-**Educational Pop-ups:**
+<b>Educational Pop-ups:</b>
 
 - Example:
 
